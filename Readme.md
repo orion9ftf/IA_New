@@ -1,6 +1,6 @@
 ## GitHub Copilot
 
-Para el uso de GitHub Copilot se siguieron seguir los siguientes pasos:
+Para el uso de GitHub Copilot se siguieron los pasos:
 
 Escoger Copilot:
 
@@ -8,7 +8,7 @@ Escoger Copilot:
 
 1.- Crear el Repositorio en Github, en este caso ya contaba con una cuenta activa en Github, esto significa que las configuraciones básicas de ssh ya se encontraba configurado.
 
-2.- En lo personal el repositorio se creó de manera local con CLI sin interfaz gráfica, para mayor comodidad, luego se inicalizó con los siguientes comandos:
+2.- En lo personal el repositorio se creó de manera local con CLI sin interfaz gráfica, para mayor comodidad, luego se inicializó con los siguientes comandos:
 
 ```sh
 $ mkdir ia_new
@@ -37,7 +37,7 @@ Repositorio Creado:
 
 ![Iniciar Copilot](/img/iniciar_copilot.png)
 
-4.- Crear un propmt específico:
+4.- Crear un prompt específico:
 
 ![crear promp](/img/promp_especifico.png)
 
